@@ -1,3 +1,5 @@
+'use client';
+
 import { Button } from '@/components/ui/button';
 import { PageHeader } from '../_components/PageHeader';
 import Link from 'next/link';
