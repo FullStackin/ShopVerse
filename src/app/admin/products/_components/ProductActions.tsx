@@ -51,7 +51,6 @@ export function DeleteDropDownItem({
         });
       }}
     >
-      {' '}
       Delete
     </DropdownMenuItem>
   );
